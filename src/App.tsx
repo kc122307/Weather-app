@@ -52,7 +52,7 @@ function App() {
   const [isDarkTheme, setIsDarkTheme] = useState(true);
   const [currentTime, setCurrentTime] = useState('');
 
-  const API_KEY = '';
+  const API_KEY = '7a6f9bb09c6a711332bb091cbe1caf27';
 
   // Fetch current time in IST
   useEffect(() => {
